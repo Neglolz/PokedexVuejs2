@@ -1,0 +1,1 @@
+{"version":3,"sources":["../index.js"],"names":["el","render","h","app"],"mappings":";;AAAA;;;;;;AAEA,kBAAQ;AACNA,MAAI,MADE;AAENC,UAAQ;AAAA,WAAKC,EAAEC,GAAF,CAAL;AAAA;AAFF,CAAR","file":"index.js","sourcesContent":["import Vue from 'vue'\n\nnew Vue({\n  el: '#app',\n  render: h => h(app)\n})\n"]}
